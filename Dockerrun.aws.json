@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "frontend",
-            "image": "wook3024/docker-frotend",
+            "image": "wook3024/docker-frontend",
             "hostname": "frontend",
             "essential": false,
             "memory": 128
